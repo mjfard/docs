@@ -10,4 +10,7 @@ https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/S
 Jason Bock Talk: 
 https://www.youtube.com/watch?v=LRK4pgvlMrE
 
+List of Analyzers: 
+https://github.com/Cybermaxs/awesome-analyzers
+
 ![image](https://github.com/mjfard/docs/assets/34769518/084f110c-d8d4-4dbe-b87b-40fc603b1f4c)
