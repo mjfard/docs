@@ -10,6 +10,9 @@ https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/S
 Jason Bock Talk: 
 https://www.youtube.com/watch?v=LRK4pgvlMrE
 
+List of Recommended Rules in different .Net SDK's:
+https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview?tabs=net-8
+
 List of Analyzers: 
 https://github.com/Cybermaxs/awesome-analyzers
 
